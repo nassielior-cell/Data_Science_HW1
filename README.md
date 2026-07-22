@@ -7,7 +7,7 @@ Student: Elior Nassi
 This repository contains:
 
 - `eda_assignment.ipynb` – Complete EDA notebook.
-- `ocean_data.csv` – Dataset used for the analysis.
+- `named_anchorages_v2_20221206.csv` — Dataset used for the analysis.
 - Generated figures used in the report.
 
 Dataset source:
